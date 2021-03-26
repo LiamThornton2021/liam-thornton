@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+
+  
+
+
+
+.links {
+  display: flex;
+  min-height: 12vh;
+  justify-content:space-around;
+  background:rgb(160, 84, 160);
+  font-size: 50px;
+  font-family: 'lobster';
+  margin-top: -20px;
+}
+.links a:active {
+  background:rgb(183, 78, 204);
+  color: rgb(194, 153, 202)
+  
+}
+.links a:hover{
+  background:rgb(183, 78, 204);
+  color: rgb(194, 153, 202)
+}
+.links a:link{
+  color: rgb(52, 156, 197);
+  text-decoration: none;
+}
+.links a:visited{
+  color: rgb(52, 156, 197);
+  text-decoration: none;
+}
+.top{
+  display:flex;
+  justify-content:center;
+  background: pink;
+  font-family: 'lobster';
+  font-size: 45px;
+  margin-top: 0px;
+}
+.open{
+  display:flex;
+  /* min-height: 40vh;
+  max-width: 40vh; */
+  background:rgb(255, 255, 255);
+  font-family: 'lobster';
+  flex-direction: row;
+  justify-content:space-evenly;
+  font-size: 35px;
+  text-decoration: center;
+
+}
+.healing{
+  display:flex;
+  justify-content: center;
+  font-size: 25px;
+  font-family: 'barlow condensed';
+
+}
+
+.question{
+  display:flex;
+  justify-content: center;
+  font-family: 'lobster';
+  font-size: 25px;
+  
+
+}
+
+.open2{
+  display:flex;
+  font-size: 25px;
+  font-family: 'barlow condensed';
+}
+
+
+
+.wwd{
+  display:flex;
+  justify-content: center;
+  font-family: 'lobster';
+  font-size: 25px;
+    
+  
+}
+.foot{
+  display: flex;
+  background:rgb(160, 84, 160);
+  justify-content:space-evenly;
+}
+
+
+.ameth{
+  display:flex;
+  justify-content: center;
+  font-family: 'lobster';
+  font-size: 25px;
+}
+
+.rose{
+  display:flex;
+  justify-content: center;
+  font-family: 'lobster';
+  font-size: 25px;
+}
+.aven{
+  display:flex;
+  justify-content: center;
+  font-family: 'lobster';
+  font-size: 25px;
+  
+}
+.aven2{
+  display:flex;
+  justify-content: center;
+  font-family: 'barlow condensed';
+  font-size: 25px;
+  
+}
+.rose1{
+  display:flex;
+  font-size: 25px;
+  font-family: 'barlow condensed';
+  justify-content: center;
+}
+.rose2{
+  display:flex;
+  font-size: 25px;
+  font-family: 'barlow condensed';
+  justify-content: center;
+
+}
+
+.ameth2{
+  display:flex;
+    font-size: 25px;
+    font-family: 'barlow condensed';
+    justify-content: center;
+  }
+.aven3{
+  display: flex;
+  justify-content: center;
+
+}
+
+.rose3{
+  display:flex;
+  font-size: 25px;
+  font-family: 'barlow condensed';
+  justify-content: center;
+
+}.typeintro{
+  display: flex;
+  font-size: 32px;
+  font-family:'barlow condensed'
+}
+.typelo{
+  display:flex;
+  font-size: 25px;
+  font-family:'lobster';
+  justify-content: center;
+}
+
+.flurt{
+  display: flex;
+  font-family: 'lobster';
+  font-size: 25px;
+  justify-content: center;
+}
+.flurp{
+  display:flex;
+  font-family: 'barlow condensed';
+  font-size: 25px;
+  justify-content: center;
+}
+
+.flurim{
+  display:flex;
+  justify-content: center;
+}
+.topazt{
+  display:flex;
+  font-family: 'lobster';
+  font-size: 25px;
+  justify-content: center;
+}
+.topazp{
+  display:flex;
+  font-family: 'barlow condensed';
+  font-size: 25px;
+  justify-content: center;
+}
+
+.topazi{
+  display:flex;
+  justify-content: center;
+}
+
+.onyt{
+  display:flex;
+  font-size: 25px;
+  font-family: lobster;
+  justify-content: center;
+}
+
+.onyp{
+  display:flex;
+  font-size: 25px;
+  font-family: 'barlow condensed';
+  justify-content: center;
+}
+.onyi{
+  display:flex;
+  justify-content: center;
+}
+.pyritet{
+  display: flex;
+  font-size: 25px;
+  font-family: 'lobster';
+  justify-content: center;
+}
+
+.pyritep{
+  display: flex;
+  font-size: 25px;
+  font-family: 'barlow condensed';
+  justify-content: center;
+
+}
+.pyritei{
+  display:flex;
+  justify-content: center;
+}
+.amazont{
+  display:flex;
+  font-family:'lobster';
+  font-size: 25px;
+  justify-content: center;
+}
+.amazonp{
+  display: flex;
+  font-family:'barlow condensed';
+  font-size: 25px;
+  justify-content: center;
+}
+.amazoni{
+  display:flex;
+  justify-content: center;
+}
